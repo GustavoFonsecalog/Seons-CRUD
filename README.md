@@ -71,7 +71,5 @@ Listagem de Produtos
 Formulário de Cadastro de Produto
 ![image](https://github.com/user-attachments/assets/451b86ff-2624-4933-953b-77fab6baade8)
 
-Contribuições
-Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests.
 
 Desenvolvido por Gustavo Fonseca.
