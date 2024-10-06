@@ -65,7 +65,8 @@ Página Inicial - Gerenciador de Produtos
 
 
 Listagem de Produtos
-![image](https://github.com/user-attachments/assets/8e17881f-c3b3-456c-aca9-13bf9025f4b8)
+![image](https://github.com/user-attachments/assets/7d32b6ac-824e-4c65-88ce-1713a2e2ac97)
+
 
 
 Formulário de Cadastro de Produto
