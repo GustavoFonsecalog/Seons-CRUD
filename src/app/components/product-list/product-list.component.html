@@ -19,7 +19,7 @@
         <td>{{ product.id }}</td>
         <td>{{ product.name }}</td>
         <td>{{ product.quantity }}</td>
-        <td>{{ getCategoryName(product.category_id) }}</td> <!-- Exibe o nome da categoria -->
+        <td>{{ getCategoryName(product.category_id) }}</td>
         <td class="actions">
           <button class="btn-edit" (click)="editProduct(product.id)">Editar</button>
           <button class="btn-delete" (click)="deleteProduct(product.id)">Deletar</button>

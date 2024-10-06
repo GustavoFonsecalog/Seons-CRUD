@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+.custom-toast-success {
+  background-color: #28a745 !important;
+  color: white !important;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.custom-toast-error {
+  background-color: #dc3545 !important;
+  color: white !important;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.custom-toast-container {
+  bottom: 20px !important;
+  right: 20px !important;
+  width: 300px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
